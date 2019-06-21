@@ -7,4 +7,3 @@ rotacionarn(X,L1,L):-
    rotacionar(L1,L2),
    X1 is (X-1),
    rotacionarn(X1,L2,L).
-   
